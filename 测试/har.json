@@ -1,0 +1,816 @@
+{
+  "log": {
+    "version": "1.2",
+    "creator": {
+      "version": "",
+      "name": "Pingdom"
+    },
+    "pages": [
+      {
+        "id": "http://zhuaowei.top/",
+        "title": "http://zhuaowei.top/",
+        "pageTimings": {
+          "_navigation_timing": {
+            "secureConnectionStart": 0,
+            "redirectStart": 0,
+            "domContentLoadedEventStart": 1639560682729,
+            "domContentLoadedEventEnd": 1639560682729,
+            "redirectEnd": 0,
+            "fetchStart": 1639560678739,
+            "navigationStart": 1639560678739,
+            "domainLookupEnd": 1639560678899,
+            "connectEnd": 1639560678988,
+            "unloadEventEnd": 0,
+            "requestStart": 1639560678988,
+            "responseEnd": 1639560679080,
+            "unloadEventStart": 0,
+            "domLoading": 1639560679084,
+            "connectStart": 1639560678899,
+            "loadEventStart": 1639560682731,
+            "responseStart": 1639560679079,
+            "loadEventEnd": 1639560682732,
+            "domComplete": 1639560682731,
+            "domInteractive": 1639560682729,
+            "domainLookupStart": 1639560678742
+          },
+          "onLoad": 3993,
+          "_fullyLoaded": 4103,
+          "onContentLoad": 3990
+        },
+        "startedDateTime": "2021-12-15T09:31:18.742827Z"
+      }
+    ],
+    "entries": [
+      {
+        "pageref": "http://zhuaowei.top/",
+        "startedDateTime": "2021-12-15T09:31:18.742827Z",
+        "cache": {},
+        "request": {
+          "cookies": [],
+          "url": "http://zhuaowei.top/",
+          "queryString": [],
+          "headers": [
+            {
+              "name": "accept-language",
+              "value": "en-US,en;q=0.8"
+            },
+            {
+              "name": "accept-encoding",
+              "value": "gzip, deflate"
+            },
+            {
+              "name": "connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "accept",
+              "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8"
+            },
+            {
+              "name": "user-agent",
+              "value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/61.0.3163.100 Chrome/61.0.3163.100 Safari/537.36 PingdomPageSpeed/1.0 (pingbot/2.0; +http://www.pingdom.com/)"
+            },
+            {
+              "name": "host",
+              "value": "zhuaowei.top"
+            },
+            {
+              "name": "pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "cache-control",
+              "value": "no-cache"
+            },
+            {
+              "name": "upgrade-insecure-requests",
+              "value": "1"
+            }
+          ],
+          "headersSize": 507,
+          "bodySize": 0,
+          "method": "GET",
+          "httpVersion": ""
+        },
+        "timings": {
+          "receive": 1.3280029297,
+          "send": 0.0549964607,
+          "ssl": 0,
+          "connect": 89.1290009022,
+          "dns": 156.7169986665,
+          "wait": 90.6450003386,
+          "blocked": 0
+        },
+        "time": 337.8739992976,
+        "response": {
+          "status": 200,
+          "cookies": [],
+          "statusText": "OK",
+          "content": {
+            "mimeType": "text/html",
+            "_resourceType": "Document",
+            "size": 1349
+          },
+          "headers": [
+            {
+              "name": "content-length",
+              "value": "1349"
+            },
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "server",
+              "value": "nginx/1.20.1"
+            },
+            {
+              "name": "last-modified",
+              "value": "Mon, 22 Nov 2021 14:20:00 GMT"
+            },
+            {
+              "name": "connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "etag",
+              "value": "\"619ba710-545\""
+            },
+            {
+              "name": "date",
+              "value": "Wed, 15 Dec 2021 09:31:19 GMT"
+            },
+            {
+              "name": "content-type",
+              "value": "text/html"
+            }
+          ],
+          "headersSize": 239,
+          "redirectURL": "",
+          "httpVersion": "",
+          "bodySize": 1588
+        }
+      },
+      {
+        "pageref": "http://zhuaowei.top/",
+        "startedDateTime": "2021-12-15T09:31:19.089029Z",
+        "cache": {},
+        "request": {
+          "cookies": [],
+          "url": "http://zhuaowei.top/bootstrap/js/bootstrap.min.js",
+          "queryString": [],
+          "headers": [
+            {
+              "name": "accept-language",
+              "value": "en-US,en;q=0.8"
+            },
+            {
+              "name": "accept-encoding",
+              "value": "gzip, deflate"
+            },
+            {
+              "name": "connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "accept",
+              "value": "*/*"
+            },
+            {
+              "name": "user-agent",
+              "value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/61.0.3163.100 Chrome/61.0.3163.100 Safari/537.36 PingdomPageSpeed/1.0 (pingbot/2.0; +http://www.pingdom.com/)"
+            },
+            {
+              "name": "host",
+              "value": "zhuaowei.top"
+            },
+            {
+              "name": "referer",
+              "value": "http://zhuaowei.top/"
+            },
+            {
+              "name": "pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "cache-control",
+              "value": "no-cache"
+            }
+          ],
+          "headersSize": 455,
+          "bodySize": 0,
+          "method": "GET",
+          "httpVersion": ""
+        },
+        "timings": {
+          "receive": 87.3199996948,
+          "send": 0.0780001283,
+          "ssl": 0,
+          "connect": 85.8910009265,
+          "dns": 0.6999969482,
+          "wait": 86.5180008113,
+          "blocked": 0.559002161
+        },
+        "time": 261.0660006702,
+        "response": {
+          "status": 200,
+          "cookies": [],
+          "statusText": "OK",
+          "content": {
+            "mimeType": "application/javascript",
+            "_resourceType": "Script",
+            "size": 39680
+          },
+          "headers": [
+            {
+              "name": "content-length",
+              "value": "39680"
+            },
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "server",
+              "value": "nginx/1.20.1"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 13 Feb 2019 15:55:38 GMT"
+            },
+            {
+              "name": "connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "etag",
+              "value": "\"5c643dfa-9b00\""
+            },
+            {
+              "name": "date",
+              "value": "Wed, 15 Dec 2021 09:31:19 GMT"
+            },
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            }
+          ],
+          "headersSize": 254,
+          "redirectURL": "",
+          "httpVersion": "",
+          "bodySize": 39934
+        }
+      },
+      {
+        "pageref": "http://zhuaowei.top/",
+        "startedDateTime": "2021-12-15T09:31:19.088866Z",
+        "cache": {},
+        "request": {
+          "cookies": [],
+          "url": "http://zhuaowei.top/bootstrap/css/bootstrap.css",
+          "queryString": [],
+          "headers": [
+            {
+              "name": "accept-language",
+              "value": "en-US,en;q=0.8"
+            },
+            {
+              "name": "accept-encoding",
+              "value": "gzip, deflate"
+            },
+            {
+              "name": "connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "accept",
+              "value": "text/css,*/*;q=0.1"
+            },
+            {
+              "name": "user-agent",
+              "value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/61.0.3163.100 Chrome/61.0.3163.100 Safari/537.36 PingdomPageSpeed/1.0 (pingbot/2.0; +http://www.pingdom.com/)"
+            },
+            {
+              "name": "host",
+              "value": "zhuaowei.top"
+            },
+            {
+              "name": "referer",
+              "value": "http://zhuaowei.top/"
+            },
+            {
+              "name": "pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "cache-control",
+              "value": "no-cache"
+            }
+          ],
+          "headersSize": 468,
+          "bodySize": 0,
+          "method": "GET",
+          "httpVersion": ""
+        },
+        "timings": {
+          "receive": 1645.3339996338,
+          "send": 0.0579990447,
+          "ssl": 0,
+          "connect": 0,
+          "dns": 0,
+          "wait": 90.1410020888,
+          "blocked": 0.950999558
+        },
+        "time": 1736.4840003252,
+        "response": {
+          "status": 200,
+          "cookies": [],
+          "statusText": "OK",
+          "content": {
+            "mimeType": "text/css",
+            "_resourceType": "Stylesheet",
+            "size": 145933
+          },
+          "headers": [
+            {
+              "name": "content-length",
+              "value": "145933"
+            },
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "server",
+              "value": "nginx/1.20.1"
+            },
+            {
+              "name": "last-modified",
+              "value": "Wed, 13 Feb 2019 15:55:38 GMT"
+            },
+            {
+              "name": "connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "etag",
+              "value": "\"5c643dfa-23a0d\""
+            },
+            {
+              "name": "date",
+              "value": "Wed, 15 Dec 2021 09:31:19 GMT"
+            },
+            {
+              "name": "content-type",
+              "value": "text/css"
+            }
+          ],
+          "headersSize": 242,
+          "redirectURL": "",
+          "httpVersion": "",
+          "bodySize": 146175
+        }
+      },
+      {
+        "pageref": "http://zhuaowei.top/",
+        "startedDateTime": "2021-12-15T09:31:19.088959Z",
+        "cache": {},
+        "request": {
+          "cookies": [],
+          "url": "http://zhuaowei.top/jqery/jquery-3.6.0.js",
+          "queryString": [],
+          "headers": [
+            {
+              "name": "accept-language",
+              "value": "en-US,en;q=0.8"
+            },
+            {
+              "name": "accept-encoding",
+              "value": "gzip, deflate"
+            },
+            {
+              "name": "connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "accept",
+              "value": "*/*"
+            },
+            {
+              "name": "user-agent",
+              "value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/61.0.3163.100 Chrome/61.0.3163.100 Safari/537.36 PingdomPageSpeed/1.0 (pingbot/2.0; +http://www.pingdom.com/)"
+            },
+            {
+              "name": "host",
+              "value": "zhuaowei.top"
+            },
+            {
+              "name": "referer",
+              "value": "http://zhuaowei.top/"
+            },
+            {
+              "name": "pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "cache-control",
+              "value": "no-cache"
+            }
+          ],
+          "headersSize": 447,
+          "bodySize": 0,
+          "method": "GET",
+          "httpVersion": ""
+        },
+        "timings": {
+          "receive": 3519.7250022888,
+          "send": 0.0730007887,
+          "ssl": 0,
+          "connect": 0,
+          "dns": 0,
+          "wait": 92.3389978707,
+          "blocked": 0.8100010455
+        },
+        "time": 3612.9470019937,
+        "response": {
+          "status": 200,
+          "cookies": [],
+          "statusText": "OK",
+          "content": {
+            "mimeType": "application/javascript",
+            "_resourceType": "Script",
+            "size": 288580
+          },
+          "headers": [
+            {
+              "name": "content-length",
+              "value": "288580"
+            },
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "server",
+              "value": "nginx/1.20.1"
+            },
+            {
+              "name": "last-modified",
+              "value": "Tue, 26 Oct 2021 13:02:26 GMT"
+            },
+            {
+              "name": "connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "etag",
+              "value": "\"6177fc62-46744\""
+            },
+            {
+              "name": "date",
+              "value": "Wed, 15 Dec 2021 09:31:19 GMT"
+            },
+            {
+              "name": "content-type",
+              "value": "application/javascript"
+            }
+          ],
+          "headersSize": 256,
+          "redirectURL": "",
+          "httpVersion": "",
+          "bodySize": 288836
+        }
+      },
+      {
+        "pageref": "http://zhuaowei.top/",
+        "startedDateTime": "2021-12-15T09:31:22.732044Z",
+        "cache": {},
+        "request": {
+          "cookies": [],
+          "url": "http://zhuaowei.top/footer.html",
+          "queryString": [],
+          "headers": [
+            {
+              "name": "accept-language",
+              "value": "en-US,en;q=0.8"
+            },
+            {
+              "name": "accept-encoding",
+              "value": "gzip, deflate"
+            },
+            {
+              "name": "connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "accept",
+              "value": "text/html, */*; q=0.01"
+            },
+            {
+              "name": "user-agent",
+              "value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/61.0.3163.100 Chrome/61.0.3163.100 Safari/537.36 PingdomPageSpeed/1.0 (pingbot/2.0; +http://www.pingdom.com/)"
+            },
+            {
+              "name": "host",
+              "value": "zhuaowei.top"
+            },
+            {
+              "name": "referer",
+              "value": "http://zhuaowei.top/"
+            },
+            {
+              "name": "pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "cache-control",
+              "value": "no-cache"
+            },
+            {
+              "name": "x-requested-with",
+              "value": "XMLHttpRequest"
+            }
+          ],
+          "headersSize": 490,
+          "bodySize": 0,
+          "method": "GET",
+          "httpVersion": ""
+        },
+        "timings": {
+          "receive": 0.4099960327,
+          "send": 0.0490024686,
+          "ssl": 0,
+          "connect": 0,
+          "dns": 0,
+          "wait": 86.3439999521,
+          "blocked": 0.1869983971
+        },
+        "time": 86.9899968505,
+        "response": {
+          "status": 200,
+          "cookies": [],
+          "statusText": "OK",
+          "content": {
+            "mimeType": "text/html",
+            "_resourceType": "XHR",
+            "size": 282
+          },
+          "headers": [
+            {
+              "name": "content-length",
+              "value": "282"
+            },
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "server",
+              "value": "nginx/1.20.1"
+            },
+            {
+              "name": "last-modified",
+              "value": "Mon, 22 Nov 2021 14:20:08 GMT"
+            },
+            {
+              "name": "connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "etag",
+              "value": "\"619ba718-11a\""
+            },
+            {
+              "name": "date",
+              "value": "Wed, 15 Dec 2021 09:31:22 GMT"
+            },
+            {
+              "name": "content-type",
+              "value": "text/html"
+            }
+          ],
+          "headersSize": 238,
+          "redirectURL": "",
+          "httpVersion": "",
+          "bodySize": 520
+        }
+      },
+      {
+        "pageref": "http://zhuaowei.top/",
+        "startedDateTime": "2021-12-15T09:31:22.731476Z",
+        "cache": {},
+        "request": {
+          "cookies": [],
+          "url": "http://zhuaowei.top/header.html",
+          "queryString": [],
+          "headers": [
+            {
+              "name": "accept-language",
+              "value": "en-US,en;q=0.8"
+            },
+            {
+              "name": "accept-encoding",
+              "value": "gzip, deflate"
+            },
+            {
+              "name": "connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "accept",
+              "value": "text/html, */*; q=0.01"
+            },
+            {
+              "name": "user-agent",
+              "value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/61.0.3163.100 Chrome/61.0.3163.100 Safari/537.36 PingdomPageSpeed/1.0 (pingbot/2.0; +http://www.pingdom.com/)"
+            },
+            {
+              "name": "host",
+              "value": "zhuaowei.top"
+            },
+            {
+              "name": "referer",
+              "value": "http://zhuaowei.top/"
+            },
+            {
+              "name": "pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "cache-control",
+              "value": "no-cache"
+            },
+            {
+              "name": "x-requested-with",
+              "value": "XMLHttpRequest"
+            }
+          ],
+          "headersSize": 490,
+          "bodySize": 0,
+          "method": "GET",
+          "httpVersion": ""
+        },
+        "timings": {
+          "receive": 0.3210029602,
+          "send": 0.0740028918,
+          "ssl": 0,
+          "connect": 0,
+          "dns": 0,
+          "wait": 94.3729989231,
+          "blocked": 0.31099841
+        },
+        "time": 95.079003185,
+        "response": {
+          "status": 200,
+          "cookies": [],
+          "statusText": "OK",
+          "content": {
+            "mimeType": "text/html",
+            "_resourceType": "XHR",
+            "size": 2551
+          },
+          "headers": [
+            {
+              "name": "content-length",
+              "value": "2551"
+            },
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "server",
+              "value": "nginx/1.20.1"
+            },
+            {
+              "name": "last-modified",
+              "value": "Mon, 22 Nov 2021 15:08:18 GMT"
+            },
+            {
+              "name": "connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "etag",
+              "value": "\"619bb262-9f7\""
+            },
+            {
+              "name": "date",
+              "value": "Wed, 15 Dec 2021 09:31:22 GMT"
+            },
+            {
+              "name": "content-type",
+              "value": "text/html"
+            }
+          ],
+          "headersSize": 239,
+          "redirectURL": "",
+          "httpVersion": "",
+          "bodySize": 2790
+        }
+      },
+      {
+        "pageref": "http://zhuaowei.top/",
+        "startedDateTime": "2021-12-15T09:31:22.747939Z",
+        "cache": {},
+        "request": {
+          "cookies": [],
+          "url": "http://zhuaowei.top/favicon.ico",
+          "queryString": [],
+          "headers": [
+            {
+              "name": "accept-language",
+              "value": "en-US,en;q=0.8"
+            },
+            {
+              "name": "accept-encoding",
+              "value": "gzip, deflate"
+            },
+            {
+              "name": "connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "accept",
+              "value": "image/webp,image/apng,image/*,*/*;q=0.8"
+            },
+            {
+              "name": "user-agent",
+              "value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/61.0.3163.100 Chrome/61.0.3163.100 Safari/537.36 PingdomPageSpeed/1.0 (pingbot/2.0; +http://www.pingdom.com/)"
+            },
+            {
+              "name": "host",
+              "value": "zhuaowei.top"
+            },
+            {
+              "name": "referer",
+              "value": "http://zhuaowei.top/"
+            },
+            {
+              "name": "pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "cache-control",
+              "value": "no-cache"
+            }
+          ],
+          "headersSize": 473,
+          "bodySize": 0,
+          "method": "GET",
+          "httpVersion": ""
+        },
+        "timings": {
+          "receive": 0.4479980469,
+          "send": 0.0849999487,
+          "ssl": 0,
+          "connect": 0,
+          "dns": 0,
+          "wait": 86.328998208,
+          "blocked": 0.2500005066
+        },
+        "time": 87.1119967103,
+        "response": {
+          "status": 404,
+          "cookies": [],
+          "statusText": "Not Found",
+          "content": {
+            "mimeType": "text/html",
+            "_resourceType": "Other",
+            "size": 3650
+          },
+          "headers": [
+            {
+              "name": "content-length",
+              "value": "3650"
+            },
+            {
+              "name": "server",
+              "value": "nginx/1.20.1"
+            },
+            {
+              "name": "connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "etag",
+              "value": "\"619ba30c-e42\""
+            },
+            {
+              "name": "date",
+              "value": "Wed, 15 Dec 2021 09:31:22 GMT"
+            },
+            {
+              "name": "content-type",
+              "value": "text/html"
+            }
+          ],
+          "headersSize": 178,
+          "redirectURL": "",
+          "httpVersion": "",
+          "bodySize": 3828
+        }
+      }
+    ]
+  }
+}
